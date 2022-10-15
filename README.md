@@ -1,1 +1,1 @@
-# Simple Recommendation System with list.(cosine similarity)
+# Simple Recommendation System with list.
